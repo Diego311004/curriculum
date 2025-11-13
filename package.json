@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-diego-gomez",
+  "version": "1.0.0",
+  "description": "Portafolio profesional de Diego Alonso Gómez Ramírez",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "software"
+  ],
+  "author": "Diego Alonso Gómez Ramírez",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
+
