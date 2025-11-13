@@ -106,7 +106,7 @@ Edita los enlaces en la sección de contacto (`index.html`):
 2. Haz clic en "New +" → "Static Site"
 3. Conecta tu repositorio o sube los archivos manualmente
 4. Configura:
-   - **Name:** portfolio-diego-gomez
+   - **Name:**    portfolio-diego-gomez
    - **Build Command:** (vacío)
    - **Publish Directory:** `.`
 5. Haz clic en "Create Static Site"
